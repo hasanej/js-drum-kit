@@ -1,4 +1,4 @@
-# js-drum-kit
+# JS Drum Kit
 This is a Javascript repository to play a sound according to keyboard button press. For example, if user press **A** then this application will play a clapping sound.
 
 ## Preview
